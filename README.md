@@ -17,13 +17,7 @@
 
 ---
 
-## 🏆 GitHub Achievements
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=abdoulsaw5&theme=algolia&column=4" />
-</p>
-
----
 
 ## 📊 GitHub Stats
 
