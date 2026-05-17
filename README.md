@@ -13,7 +13,7 @@
 - 🧠 Currently mastering Red Teaming, Digital Forensics & Bug Bounty  
 - ⚔️ Passionate about ethical hacking, AI, and fighting cybercrime  
 - 🧰 Learning AI tools    
-- 📡 Dream: Become a top Red Teamer & travel the world with my partner  
+- 📡 Dream: travel the world one day :) 
 
 ---
 
