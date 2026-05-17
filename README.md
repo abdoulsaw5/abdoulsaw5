@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hey there, I’m <span style="color:#00ffff;">Abdoul</span> </h1>
 
 <p align="center">
-  🚀 Cyber Security Stuent | 👨‍🎓Computer Science & Information Secrutiy | 🛡️ Bug Bounty Hunter <br>
+  🚀 Cyber Security Student | 👨‍🎓Computer Science & Information Secrutiy | 🛡️ Bug Bounty Hunter <br>
   
 
 <p align="center"><em>"Turning curiosity into code, and code into security."</em></p>
