@@ -1,61 +1,103 @@
-<h1 align="center">👋 Hey there, I’m <span style="color:#00ffff;">Abdoul</span> </h1>
+<!-- Header -->
+<div align="center">
 
-<p align="center">
-  🚀 Cyber Security Student | 👨‍🎓Computer Science & Information Secrutiy | 🛡️ Bug Bounty Hunter <br>
-  
+```
+ ██████╗██╗   ██╗██████╗ ███████╗██████╗      ██████╗ ██████╗ ██╗    ██╗██████╗  ██████╗ ██╗   ██╗
+██╔════╝╚██╗ ██╔╝██╔══██╗██╔════╝██╔══██╗    ██╔════╝██╔═══██╗██║    ██║██╔══██╗██╔═══██╗╚██╗ ██╔╝
+██║      ╚████╔╝ ██████╔╝█████╗  ██████╔╝    ██║     ██║   ██║██║ █╗ ██║██████╔╝██║   ██║ ╚████╔╝ 
+██║       ╚██╔╝  ██╔══██╗██╔══╝  ██╔══██╗    ██║     ██║   ██║██║███╗██║██╔══██╗██║   ██║  ╚██╔╝  
+╚██████╗   ██║   ██████╔╝███████╗██║  ██║    ╚██████╗╚██████╔╝╚███╔███╔╝██████╔╝╚██████╔╝   ██║   
+ ╚═════╝   ╚═╝   ╚═════╝ ╚══════╝╚═╝  ╚═╝     ╚═════╝ ╚═════╝  ╚══╝╚══╝ ╚═════╝  ╚═════╝   ╚═╝   
+```
 
-<p align="center"><em>"Turning curiosity into code, and code into security."</em></p>
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00FFFF&center=true&vCenter=true&width=600&lines=Cybersecurity+Student+%F0%9F%9B%A1%EF%B8%8F;Bug+Bounty+Hunter+%F0%9F%90%9B;Red+Teamer+in+Training+%E2%9A%94%EF%B8%8F;Digital+Forensics+Enthusiast+%F0%9F%94%8D;Turning+curiosity+into+security." alt="Typing SVG" />
+</a>
+
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Abdoul%20Sawadogo-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdoul-s-0a8756245)
+[![GitHub](https://img.shields.io/badge/GitHub-Abdoulsaw5-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/abdoulsaw5)
+[![HackerOne](https://img.shields.io/badge/HackerOne-cybercowboy98-DA3438?style=for-the-badge&logo=hackerone&logoColor=white)](https://hackerone.com/cybercowboy98?type=user)
+[![Bugcrowd](https://img.shields.io/badge/Bugcrowd-cybercowboy98-F26822?style=for-the-badge&logo=bugcrowd&logoColor=white)](https://bugcrowd.com/h/cybercowboy98)
+
+![Profile Views](https://komarev.com/ghpvc/?username=abdoulsaw5&color=00ffff&style=flat-square&label=Profile+Views)
+
+</div>
 
 ---
 
 ## 👨‍💻 About Me
 
-- 🧠 Currently mastering Red Teaming, Digital Forensics & Bug Bounty  
-- ⚔️ Passionate about ethical hacking, AI, and fighting cybercrime  
-- 🧰 Learning AI tools    
-- 📡 Dream: travel the world one day :) 
+```bash
+$ whoami
+```
+
+> 🎓 Computer Science & Information Security student  
+> 🛡️ Bug Bounty Hunter | Red Teamer in Training | Digital Forensics Enthusiast  
+> ⚔️ Passionate about ethical hacking, AI-powered security, and fighting cybercrime  
+> 🧰 Exploring AI automation tools (n8n, LLM pipelines)  
+> 📡 Dream: travel the world one day — one shell at a time 🌍  
 
 ---
 
+## 🐛 Bug Bounty
 
+<div align="center">
 
-## 📊 GitHub Stats
+[![HackerOne](https://img.shields.io/badge/HackerOne-cybercowboy98-DA3438?style=for-the-badge&logo=hackerone&logoColor=white)](https://hackerone.com/cybercowboy98?type=user)
+[![Bugcrowd](https://img.shields.io/badge/Bugcrowd-cybercowboy98-F26822?style=for-the-badge&logo=bugcrowd&logoColor=white)](https://bugcrowd.com/h/cybercowboy98)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abdoulsaw5&show_icons=true&theme=tokyonight&count_private=true" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdoulsaw5&layout=compact&theme=tokyonight" />
-</p>
+</div>
 
 ---
-
 
 ## 🧰 Tools & Technologies
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=yellow" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/Burp%20Suite-FF6C37?style=for-the-badge&logo=burp-suite&logoColor=white" />
-  <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white"/>
-</p>
+<div align="center">
+
+**Languages**  
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=yellow)
+![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
+
+**Security Tools**  
+![Burp Suite](https://img.shields.io/badge/Burp%20Suite-FF6C37?style=for-the-badge&logo=burp-suite&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-0E83CD?style=for-the-badge&logo=nmap&logoColor=white)
+![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+
+**Systems & Automation**  
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
+
+</div>
 
 ---
 
-## 🌐 Connect With Me
-<p align="center">
-  <a href="https://www.linkedin.com/in/abdoul-s-0a8756245" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Abdoul-Sawadogo?style=for-the-badge&logo=linkedin" />
-  </a>
-  <a href="https://github.com/abdoulsaw5" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-Abdoulsaw5-black?style=for-the-badge&logo=github" />
-  </a>
-</p>
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=abdoulsaw5&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdoulsaw5&layout=compact&theme=tokyonight&hide_border=true" height="170" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=abdoulsaw5&theme=tokyonight&hide_border=true" />
+</div>
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=abdoulsaw5&color=blue" />
-</p>
+## 🐍 Contribution Snake
 
-<p align="center">
-</p>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/abdoulsaw5/abdoulsaw5/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</div>
+
+> ⚠️ To enable the snake: go to your profile repo → Actions → enable workflows → add the [snake workflow](https://github.com/Platane/snk).
+
+---
+
+<div align="center">
+  <em>"Turning curiosity into code, and code into security."</em>
+</div>
