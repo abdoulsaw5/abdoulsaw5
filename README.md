@@ -9,8 +9,6 @@
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Abdoul%20Sawadogo-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdoul-s-0a8756245)
-[![HackerOne](https://img.shields.io/badge/HackerOne-cybercowboy98-DA3438?style=for-the-badge&logo=hackerone&logoColor=white)](https://hackerone.com/cybercowboy98?type=user)
-[![Bugcrowd](https://img.shields.io/badge/Bugcrowd-cybercowboy98-F26822?style=for-the-badge&logo=bugcrowd&logoColor=white)](https://bugcrowd.com/h/cybercowboy98)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=abdoulsaw5&color=00ffff&style=flat-square&label=Profile+Views)
 
