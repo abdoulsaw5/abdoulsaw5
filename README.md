@@ -2,10 +2,6 @@
 <div align="center">
 
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00FFFF&center=true&vCenter=true&width=600&lines=Cybersecurity+Student+%F0%9F%9B%A1%EF%B8%8F;Bug+Bounty+Hunter+%F0%9F%90%9B;Red+Teamer+in+Training+%E2%9A%94%EF%B8%8F;Digital+Forensics+Enthusiast+%F0%9F%94%8D;Turning+curiosity+into+security." alt="Typing SVG" />
-</a>
-
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Abdoul%20Sawadogo-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdoul-s-0a8756245)
