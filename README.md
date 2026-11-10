@@ -13,7 +13,9 @@
 ---
 
 ## 👨‍💻 About Me
+Hello world! I’m Abdoul, born and raised in New York City. I’ve been passionate about technology since I was young, and that passion started with hours and hours of gaming. I grew up playing Roblox and Counter-Strike, and being a gamer drew me closer to technology.
 
+I love working on projects and building things. When I make something, I aim for it be reliable and simple enough for the user to understand.
 🎓 Computer Science & Information Security student  
 🛡️ Bug Bounty Hunter | Red Teamer in Training | Digital Forensics Enthusiast  
 ⚔️ Passionate about ethical hacking, AI-powered security, and fighting cybercrime  
